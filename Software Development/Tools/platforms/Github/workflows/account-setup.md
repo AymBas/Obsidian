@@ -1,6 +1,21 @@
-# SSH GitHub Setup
+---
+tags: ['software-development', 'workflow', 'github', 'ssh', 'authentication']
+---
 
-## Generate SSH Key
+# GitHub Account Setup
+
+## Initial Authentication
+
+```bash
+# Login to GitHub account
+gh auth login
+```
+
+This will guide you through the authentication process and set up your GitHub CLI token.
+
+## SSH Key Setup
+
+### Generate SSH Key
 
 ```bash
 # Generate new SSH key
@@ -43,7 +58,3 @@ If `ssh -T git@github.com` hangs, try:
 - Use port 443: `ssh -T -p 443 git@ssh.github.com`
 - Check firewall/network settings
 - Verify SSH key is added to GitHub
-
-## Related
-- [[platforms/github]] - GitHub CLI installation and auth
-- [[platforms/github-repo-init]] - Creating and pushing to GitHub repositories 

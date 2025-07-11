@@ -1,5 +1,5 @@
 ---
-tags: ['software-development', 'tool', 'github-actions', 'ci', 'cd']
+tags: ['software-development', 'tool', 'github-actions', 'ci', 'cd', 'automation']
 ---
 
 # GitHub Actions

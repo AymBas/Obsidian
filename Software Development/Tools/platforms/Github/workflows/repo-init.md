@@ -1,3 +1,7 @@
+---
+tags: ['software-development', 'workflow', 'github', 'repository', 'git']
+---
+
 # GitHub Repository Initialization
 
 ## Initialize Local Repository
@@ -17,13 +21,15 @@ git commit -m "Initial commit"
 
 ```bash
 # Create GitHub repo and push existing commits
-gh repo create REPO_NAME --public --source=. --remote=origin --push
+gh repo create name_of_the_repo --public --source=. --remote=origin --push
 ```
 
 This command:
 - Creates a new repository on GitHub
 - Adds it as remote origin
 - Pushes your existing commits
+
+**Note:** Replace `name_of_the_repo` with your actual repository name.
 
 ### Option 2: Connect to Existing Repository
 
@@ -49,7 +55,3 @@ git remote set-url origin https://github.com/USERNAME/REPO_NAME.git
 ```bash
 git remote set-url origin git@github.com:USERNAME/REPO_NAME.git
 ```
-
-## Related
-- [[platforms/github]] - GitHub CLI installation and auth
-- [[platforms/github-account-setup]] - SSH key setup for GitHub 

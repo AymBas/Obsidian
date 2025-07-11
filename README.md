@@ -1,3 +1,7 @@
+---
+tags: ['knowledge-vault', 'obsidian', 'documentation']
+---
+
 # Obsidian Knowledge Vault
 
 *A lightweight, cross-domain Obsidian vault for “101-level” reference notes, runnable snippets, and quick diagrams.*
