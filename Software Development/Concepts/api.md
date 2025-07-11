@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'concept', 'api']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # API

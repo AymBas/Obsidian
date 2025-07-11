@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'concept', 'security', 'cors']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # CORS – Cross‑Origin Resource Sharing

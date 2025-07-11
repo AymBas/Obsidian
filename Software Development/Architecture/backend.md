@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'architecture', 'backend']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Backend

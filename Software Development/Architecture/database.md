@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'architecture', 'database']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Database

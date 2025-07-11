@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'testing', 'coverage']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Test Coverage

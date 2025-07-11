@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'playwright', 'testing', 'e2e']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Playwright

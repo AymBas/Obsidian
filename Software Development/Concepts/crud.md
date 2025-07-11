@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'concept', 'crud']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # CRUD

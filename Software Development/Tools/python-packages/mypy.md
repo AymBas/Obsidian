@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'mypy', 'python', 'typing']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # mypy

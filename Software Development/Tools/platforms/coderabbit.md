@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'code-rabbit', 'ai', 'code-review']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # CodeRabbit

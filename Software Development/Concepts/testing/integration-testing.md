@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'testing', 'integration-test']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Integration Testing

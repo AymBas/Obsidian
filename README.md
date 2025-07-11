@@ -1,5 +1,7 @@
 ---
 tags: ['knowledge-vault', 'obsidian', 'documentation']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Obsidian Knowledge Vault

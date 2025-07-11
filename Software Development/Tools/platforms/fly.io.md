@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'fly.io', 'deployment']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Fly.io

@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'workflow', 'github', 'repository', 'git']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # GitHub Repository Initialization

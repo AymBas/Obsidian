@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'git-hooks', 'automation']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Git Hooks

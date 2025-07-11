@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'uvicorn', 'backend', 'python']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Uvicorn

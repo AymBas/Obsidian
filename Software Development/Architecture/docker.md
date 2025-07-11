@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'architecture', 'docker']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Docker

@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'react', 'frontend']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # React

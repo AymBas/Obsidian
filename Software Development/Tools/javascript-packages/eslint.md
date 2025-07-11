@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'eslint', 'linting']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # ESLint

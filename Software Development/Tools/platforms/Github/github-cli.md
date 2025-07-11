@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'github-cli', 'workflow']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # GitHub CLI

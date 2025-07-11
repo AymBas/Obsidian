@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'architecture', 'frontend']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # Frontend

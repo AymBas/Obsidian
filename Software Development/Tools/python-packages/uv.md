@@ -1,5 +1,7 @@
 ---
 tags: ['software-development', 'tool', 'uv', 'python', 'dependency']
+checked: false
+last_updated: 2025-07-11
 ---
 
 # uv
